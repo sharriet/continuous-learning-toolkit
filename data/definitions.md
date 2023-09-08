@@ -9,7 +9,7 @@
 # PAIRING
 Pairing essentially involves working in partnership with someone, in real-time, towards the same goal. It is typically practiced by developers when writing code, but you can pair on non-coding activities too.
 
-Pairing offers many benefits, not least in supporting person-to-person knowledge transfer and diversity of thinking. For a more complete description of paired programming and its benefits, refer to RESOURCE. It may also be advisable to consider challenges associated with pairing and to be mindful about when it is applied (RESOURCE).
+Pairing offers many benefits, not least in supporting person-to-person knowledge transfer and diversity of thinking. For a more complete description of paired programming and its benefits, \(https://martinfowler.com/articles/on-pair-programming.html)[On Pair Programming] is a great place to start. It may also be advisable to consider the \(https://sorrelharriet.medium.com/supporting-neurodiversity-in-paired-programming-8b250d2b5cab)[challenges associated with pairing] and to be mindful about when and how it is applied.
 
 # MOBBING
 
@@ -78,12 +78,12 @@ Pairing offers many benefits, not least in supporting person-to-person knowledge
 # GIVING & RECEIVING FEEDBACK
 
 # ASKING FOR HELP
-Sounds straightforward, yet people will often avoid asking for help for a multitude of reasons. Look for ways to normalise asking for help in your team(s), and ensure that the help people receive is actually helpful. For example, you might consider creating dedicated help channels where people can easily connect around a question or problem; you might work to foster a \[https://www.self.com/story/how-to-ask-for-help]('culture of help') in your organisation or team, which will most likely neccessitate a 'whole person' approach, as opposed to focusing soley on work matters; you might also give people a base level of teaching and mentoring skills to make them better helpers. Perhaps most importantly, foster a culture of collaboration and \[https://www.youtube.com/watch?v=sZZHkqIY0Fo]('Teaming'), whereby people will instinctively call on each other to solve a problem or get the job done.      
+Sounds straightforward, yet people will often avoid asking for help for a multitude of reasons. Look for ways to normalise asking for help in your team(s), and ensure that the help people receive is actually helpful. For example, you might consider creating dedicated help channels where people can easily connect around a question or problem; you might work to foster a \(https://www.self.com/story/how-to-ask-for-help)['culture of help'] in your organisation or team, which will most likely neccessitate a 'whole person' approach, as opposed to focusing soley on work matters; you might also give people a base level of teaching and mentoring skills to make them better helpers. Perhaps most importantly, foster a culture of collaboration and \(https://www.youtube.com/watch?v=sZZHkqIY0Fo)['Teaming'], whereby people will instinctively call on each other to solve a problem.      
 
 # ASKING REFLECTIVE QUESTIONS
 This is a powerful skill for learning that anyone can use to promote reflection in others. Used in teams, it not only fosters reflective inquiry, but may also help build trust and encourage diversity of thought.
 
-There are many tools available to help us develop our reflective questioning capability. The \[https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf](4A's reflective questioning framework) is one example.
+There are many tools available to help us develop our reflective questioning capability. The \(https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf)[4A's reflective questioning framework] is one example.
 
 # WALK AND TALKS
 A walk and talk is simply a conversation away from the desk. You might combine it with another activity, such as walking the dog or visiting an art gallery. The change of environment and physical movement can stimulate fresh thinking and help you avoid other distractions and relational barriers associated with being in an office environment. Bear in mind this format may not be suitable for every topic of conversation, and that the activity and location should feel comfortable and accessible to all participants.
@@ -101,7 +101,7 @@ A guided experience is a curated sequence of tasks that guide a person through a
 # READING
 
 # LIGHTNING TALKS
-A lightning talk is a short-form talk, usually lasting around 2-5 minutes. There are variations on the format, including the \[https://ce.fresno.edu/news/what-is-a-pecha-kucha-presentation/](pecha kucha) and \[https://scottberkun.com/2009/how-to-give-a-great-ignite-talk/](ignite talk) formats. Lightning talks are often given at conferences, but they can also be included in workplace events such as lunch'n'learns, demos and learning days. They are a great way to cultivate your presentation skills, consolidate and share learning, or invite feedback and discussion around a problem or idea. For those in the audience, lightning talks are an opportunity to practice active listening, reflective questioning and giving feedback. 
+A lightning talk is a short-form talk, usually lasting around 2-5 minutes. There are variations on the format, including the \(https://ce.fresno.edu/news/what-is-a-pecha-kucha-presentation/)[pecha kucha] and \(https://scottberkun.com/2009/how-to-give-a-great-ignite-talk)[ignite talk] formats. Lightning talks are often given at conferences, but they can also be included in workplace events such as lunch'n'learns, demos and learning days. They are a great way to cultivate your presentation skills, consolidate and share learning, or invite feedback and discussion around a problem or idea. For those in the audience, lightning talks are an opportunity to practice active listening, reflective questioning and giving feedback. 
 
 # DOCUMENTING
 
