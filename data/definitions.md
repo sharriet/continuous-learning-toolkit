@@ -4,6 +4,12 @@
 
 # LUNCH'N'LEARNS
 
+If you're expecting people to give up their lunchtime, choose the type of activities and format sensitively so people have the opportunity to eat / draw breath.
+Set expectations around how people should engage and interact.
+https://www.hoppier.com/blog/lunch-and-learn
+https://www.mindtools.com/atv697v/how-to-run-successful-lunch-and-learn-events
+https://www.mindtools.com/akolpj7/how-to-run-a-world-cafe
+
 # UNCONFERENCE
 
 # PAIRING
@@ -106,3 +112,9 @@ A lightning talk is a short-form talk, usually lasting around 2-5 minutes. There
 # DOCUMENTING
 
 # CREATING SHARED RESOURCES
+
+# OBSERVABILITY TOOLS
+
+# TEAM HEALTH CHECKS
+
+

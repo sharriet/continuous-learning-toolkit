@@ -1,0 +1,23 @@
+html
+    head
+        title= title
+        link(rel="stylesheet", href="css/bootstrap.min.css")
+        link(rel="stylesheet", href="font/bootstrap-icons.css")
+        link(rel="preconnect", href="https://fonts.googleapis.com")
+        link(rel="preconnect", href="https://fonts.gstatic.com" crossorigin)
+        link(href="https://fonts.googleapis.com/css2?family=Oswald&display=swap", rel="stylesheet")
+        link(rel='stylesheet', type='text/css', href='custom.css') 
+    body 
+        h1= message
+        div(class="container-fluid")
+            - var n = 0;
+            while n < data.length
+                if n % 8 == 0
+                    div(class="row row-"+row++)                    
+                        - for (var i=0; i<8; i++)                            
+                            div(class="col-sm")
+                                if i+n < data.length
+                                    div(class="card")
+                                        div(class="card-body in-work")
+                                            h5(class="card-title")= data[i+n].title
+                - n++
