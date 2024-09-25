@@ -18,12 +18,14 @@
             "https://www.hoppier.com/blog/lunch-and-learn",
             "https://www.mindtools.com/atv697v/how-to-run-successful-lunch-and-learn-events",
             "https://www.mindtools.com/akolpj7/how-to-run-a-world-cafe"
-        ]
+        ],
+        "icon":"bi-egg-fried"
     },
     {
         "title" : "UNCONFERENCE",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-bounding-box-circles"
     },
     {
         "title" : "PAIRING",
@@ -31,172 +33,194 @@
         "links" :[
             "https://martinfowler.com/articles/on-pair-programming.html",
             "https://sorrelharriet.medium.com/supporting-neurodiversity-in-paired-programming-8b250d2b5cab"
-        ]
+        ],
+        "icon":"bi-car-front-fill"
     },
     {
         "title" : "MOBBING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-bricks"
     },
     {
         "title" : "HACK DAYS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-tools"
     },
     {
         "title" : "PEER REVIEW",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-search-heart"
     },
     {
         "title" : "SWARMING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-bug"
     },
     {
         "title" : "GROUP COACHING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-flower1"
     },
     {
         "title" : "1-1 COACHING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-bookshelf"
     },
     {
         "title" : "TEAM COACHING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-megaphone"
     },
     {
         "title" : "MENTORING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-signpost"
     },
     {
         "title" : "COMMUNITIES OF PRACTICE",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-chat-dots"
     },
     {
         "title" : "WORKSHOPS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-brush"
     },
     {
         "title" : "BLAMELESS POST-MORTEMS",
         "description": "",
-        "links" :[]
-    },
-    {
-        "title" : "GUEST SPEAKERS",
-        "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-lungs-fill"
     },
     {
         "title" : "BOOK CLUBS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-suit-club-fill"
     },
     {
         "title" : "DOJOS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-cone-striped"
     },
     {
         "title" : "SPECIAL INTEREST CHANNELS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-slack"
     },
     {
         "title" : "'TODAY I LEARNED'",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-balloon"
     },
     {
         "title" : "BRAINSTORMING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-lightbulb"
     },
     {
         "title" : "LEARNING BACKLOG",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-kanban"
     },
     {
         "title" : "BLOGGING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-medium"
     },
     {
         "title" : "SHARED SOURCE CODE REPOSITORY",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-git"
     },
     {
         "title" : "TESTS AS DOCUMENTATION",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-file-earmark-code"
     },
     {
         "title" : "CONFERENCES",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-easel"
     },
     {
         "title" : "WORK SHADOWING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-people-fill"
     },
     {
         "title" : "GAME DAYS / SIMULATIONS",
         "description": "",
-        "links" :[]
-    },
-    {
-        "title" : "SCENARIO-BASED LEARNING",
-        "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-controller"
     },
     {
         "title" : "ONLINE COURSES",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-pc-display-horizontal"
     },
     {
         "title" : "EXPERIMENTS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-recycle"
     },
     {
         "title" : "CODE REVIEW",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-code-square"
     },
     {
         "title" : "WIKI / KNOWLEDGE BASE",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-wikipedia"
     },
     {
         "title" : "GROUP PROBLEM-SOLVING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-boxes"
     },
     {
         "title" : "IMPROVEMENT BLITZES",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-airplane-engines"
     },
     {
-        "title" : "SHATROOMS & CHATBOTS",
+        "title" : "CHATROOMS & CHATBOTS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-robot"
     },
     {
         "title" : "GIVING & RECEIVING FEEDBACK",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-arrow-repeat"
     },
     {
         "title" : "ASKING FOR HELP",
@@ -204,62 +228,73 @@
         "links" :[
             "https://www.self.com/story/how-to-ask-for-help",
             "https://www.youtube.com/watch?v=sZZHkqIY0Fo"
-        ]
+        ],
+        "icon":"bi-capsule"
     },
     {
-        "title" : "ASKING REFLECTIVE QUESTIONS",
-        "description": "This is a powerful skill for learning that anyone can use to promote reflection in others. Used in teams, it not only fosters reflective inquiry, but may also help build trust and encourage diversity of thought. There are many tools available to help us develop our reflective questioning capability.",
+        "title" : "REFLECTIVE QUESTIONING",
+        "description": "A powerful skill for learning that anyone can use to promote reflection in others. Used in teams, it not only fosters reflective inquiry, but can also help build trust and encourage diversity of thought. There are many tools available to help us develop our reflective questioning capability.",
         "links" :[
             "https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf"
-        ]
+        ],
+        "icon":"bi-question-circle"
     },
     {
         "title" : "WALK & TALKS",
         "description": "A walk and talk is simply a conversation away from the desk. You might combine it with another activity, such as walking the dog or visiting an art gallery. The change of environment and physical movement can stimulate fresh thinking and help you avoid other distractions and relational barriers associated with being in an office environment. Bear in mind this format may not be suitable for every topic of conversation, and that the activity and location should feel comfortable and accessible to all participants.",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-tree-fill"
     },
     {
         "title" : "PROCESSING PAUSES",
         "description": "A processing pause means taking time to think and/or 'be' after an emotional or cognitively demanding experience. For example, processing pauses can be worked in and around meetings, workshops and other situations at work when you're having to react or problem-solve in the moment. During a processing pause you might want to write things down, reflect on a recent experience, or simply check in with yourself and how you are feeling in the moment.",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-pause-btn"
     },
     {
         "title" : "GUIDED EXPERIENCES",
         "description": "A guided experience is a curated sequence of tasks that guide a person through a multistage process, possibly spanning multiple systems. For example, a guided experience could be used to support someone through their onboarding, run an experiment, or navigate a formal progression process. It's more than a 'to do' list, since it considers the goals and experiences of the person performing the tasks. Guided experiences can be administered in a multitude of ways, from a simple wiki page to a course on a company's Learning Management System (LMS).",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-rulers"
     },
     {
         "title" : "WATERCOOLER CHATS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-cup-straw"
     },
     {
         "title" : "READING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-book"
     },
     {
         "title" : "LIGHTNING TALKS",
         "description": "A lightning talk is a short-form talk, usually lasting around 2-5 minutes. There are variations on the format, including the 'pecha kucha' and 'ignite talk' formats. Lightning talks are often given at conferences, but they can also be included in workplace events such as lunch'n'learns, demos and learning days. They are a great way to cultivate your presentation skills, consolidate and share learning, or invite feedback and discussion around a problem or idea. For those in the audience, lightning talks are an opportunity to practice active listening, reflective questioning and giving feedback.",
         "links" :[
-            "https://ce.fresno.edu/news/what-is-a-pecha-kucha-presentation/",
+            "https://ce.fresno.edu/news/what-is-a-pecha-kucha-presentation",
             "https://scottberkun.com/2009/how-to-give-a-great-ignite-talk"
-        ]
+        ],
+        "icon":"bi-lightning"
     },
     {
         "title" : "DOCUMENTING",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-markdown"
     },
     {
         "title" : "CREATING SHARED RESOURCES",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-bus-front"
     },
     {
         "title" : "OBSERVABILITY TOOLS",
         "description": "",
-        "links" :[]
+        "links" :[],
+        "icon":"bi-eye"
     },
     {
         "title" : "TEAM HEALTH CHECKS",
@@ -267,7 +302,8 @@
         "links" :[
             "https://getdx.com/products/devex360/",
             "https://https://www.teamperature.com/"
-        ]
+        ],
+        "icon":"bi-thermometer"
     }
 ]
 

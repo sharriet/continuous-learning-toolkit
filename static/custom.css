@@ -16,6 +16,18 @@ h5.card-title {
     margin-bottom: 0;
 }
 
+.card button.stretched-link {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.card:hover {
+    background-color: #CCC;
+}
+
 .bi {
     font-size: 3rem;
+    display: block;
+    margin-top: 10px;
 }
